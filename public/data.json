@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "UV Protection Sunglasses",
+        "brand": "SunShade",
+        "price": 15,
+        "rating": 4.7,
+        "stock": 10,
+        "description": "Stylish UV protection sunglasses perfect for summer outings.",
+        "image": "https://i.ibb.co.com/Pssc5vsd/pexels-pu-ca-adryan-163345030-13204435.jpg",
+        "category": "Accessories"
+    },
+    {
+        "id": 2,
+        "name": "Beach Straw Hat",
+        "brand": "SunnyWear",
+        "price": 18,
+        "rating": 4.8,
+        "stock": 15,
+        "description": "Wide-brim straw hat designed to keep you cool under the sun.",
+        "image": "https://i.ibb.co.com/CKJjGh0r/pexels-jdgromov-7816592.jpg",
+        "category": "Accessories"
+    },
+    {
+        "id": 3,
+        "name": "Summer Cotton T-Shirt",
+        "brand": "CoolFit",
+        "price": 22,
+        "rating": 4.6,
+        "stock": 20,
+        "description": "Lightweight cotton t-shirt for maximum comfort during hot days.",
+        "image": "https://i.ibb.co.com/svFnF6N2/pexels-bjbaba-26601192.jpg",
+        "category": "Clothing"
+    },
+    {
+        "id": 4,
+        "name": "SPF 50 Sunscreen Lotion",
+        "brand": "SunCare",
+        "price": 12,
+        "rating": 4.9,
+        "stock": 30,
+        "description": "High-protection sunscreen that shields your skin from harmful UV rays.",
+        "image": "https://i.ibb.co.com/yFn5X2dV/pexels-yaazhini-17656719.jpg",
+        "category": "Skincare"
+    },
+    {
+        "id": 5,
+        "name": "Insulated Water Bottle",
+        "brand": "HydroPlus",
+        "price": 20,
+        "rating": 4.7,
+        "stock": 18,
+        "description": "Double-wall insulated bottle that keeps drinks cold for up to 24 hours.",
+        "image": "https://i.ibb.co.com/S70XwjSC/pexels-ashish-sagar-385663-15698105.jpg",
+        "category": "Lifestyle"
+    },
+    {
+        "id": 6,
+        "name": "Beach Flip Flops",
+        "brand": "WaveWalk",
+        "price": 14,
+        "rating": 4.5,
+        "stock": 25,
+        "description": "Comfortable anti-slip flip flops perfect for beaches and poolside.",
+        "image": "https://i.ibb.co.com/5gJPQYZX/pexels-rdne-8455822.jpg",
+        "category": "Footwear"
+    }
+]
