@@ -1,6 +1,7 @@
 import Banner from "@/Components/Banner";
+import CareTips from "@/Components/CareTips";
 import PopularProducts from "@/Components/PopularProducts";
-import { FaHand } from "react-icons/fa6";
+
 
 
 
@@ -9,6 +10,7 @@ export default function Home() {
    <div>
     <Banner></Banner>
     <PopularProducts></PopularProducts>
+    <CareTips></CareTips>
    </div>
   );
 }

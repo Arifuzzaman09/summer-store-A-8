@@ -12,7 +12,7 @@ const PopularProducts = async () => {
 
     return (
         <div className= ' w-10/12 mx-auto my-5'>
-            <h2 className='text-3xl font-bold text-center'>Popular Products</h2>
+            <h2 className='text-3xl font-bold text-center my-10'>Popular Products</h2>
             <div className='grid lg:grid-cols-3 gap-3'>
                 {
                     popularProducts.map(product=> <ProductCarts key={product.id} product={product}>
