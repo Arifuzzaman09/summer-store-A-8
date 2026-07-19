@@ -1,9 +1,12 @@
-import Image from "next/image";
+import Banner from "@/Components/Banner";
+import { FaHand } from "react-icons/fa6";
+
+
 
 export default function Home() {
   return (
    <div>
-    <h2>Home</h2>
+    <Banner></Banner>
    </div>
   );
 }

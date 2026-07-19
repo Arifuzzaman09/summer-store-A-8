@@ -91,7 +91,7 @@ const Footer = () => {
 
                         <div className="flex items-center gap-3">
                             <MdPhone className="text-2xl text-green-500" />
-                            <span>+880 1234-567890</span>
+                            <span>+880 1300666763</span>
                         </div>
 
                         <div className="flex items-center gap-3">
