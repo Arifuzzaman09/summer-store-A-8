@@ -3,9 +3,6 @@ import CareTips from "@/Components/CareTips";
 import PopularProducts from "@/Components/PopularProducts";
 import TopBrands from "@/Components/TopBrands";
 
-
-
-
 export default function Home() {
   return (
    <div>
