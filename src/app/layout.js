@@ -8,7 +8,7 @@ import Footer from "@/Components/Footer";
 const poppins = Poppins({
   variable: "--font-poppins",
   subsets: ["latin"],
-  weight:["300","400","500"]
+  weight: ["300", "400", "500"]
 });
 
 export const metadata = {
@@ -20,13 +20,14 @@ export default function RootLayout({ children }) {
   return (
     <html
       lang="en"
+      data-theme='light'
       className={`${poppins.className}  h-full antialiased`}
     >
       <body >
         <Navbar></Navbar>
         {children}
         <Footer></Footer>
-        </body>
+      </body>
     </html>
   );
 }

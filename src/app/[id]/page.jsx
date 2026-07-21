@@ -1,5 +1,5 @@
 import { Button, Chip } from "@heroui/react";
-import Image from "next/image";
+
 import { FaRegStarHalfStroke, FaStar } from "react-icons/fa6";
 import { FiShoppingCart } from "react-icons/fi";
 

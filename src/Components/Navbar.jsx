@@ -20,7 +20,7 @@ const Navbar = () => {
                     </ul>
                     <div className="space-x-2">
                          <Link href="/signup"><Button variant="secondary">Sign Up</Button></Link>
-                         <Link href="/login"><Button variant="secondary">Login</Button></Link>
+                         <Link href="/signin"><Button variant="secondary">Sign in</Button></Link>
                     </div>
                 </header>
             </nav>
